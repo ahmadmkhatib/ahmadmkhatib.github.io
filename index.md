@@ -14,19 +14,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # Ahmad Alkhatib 
 
 ## Research
-###The link between features of the urban environment and health 
+###The link between features of the **urban environment** and **health** 
 
 ![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://baxcompany.com/insights/healthy-cities-bridging-urban-planning-and-health/))
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
