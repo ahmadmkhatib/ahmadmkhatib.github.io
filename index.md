@@ -1,32 +1,44 @@
-## Welcome to GitHub Pages
+# Ahmad Alkhatib
+**Research Associate – Road Safety Evaluation**  
+Imperial College London  
 
-You can use the [editor on GitHub](https://github.com/ahmadmkhatib/ahmadmkhatib.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+I am a researcher specialising in **road safety**, **urban environments**, **causal inference methods** and ** Data Science**.  
+My work focuses on understanding how transport policies and city design influence **health outcomes and injury risk**.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interests
+- Road safety interventions  
+- 20 mph / low-speed traffic policies  
+- Urban environment and public health  
+- Causal inference (Difference-in-Differences, quasi-experimental methods)  
 
-```markdown
+---
 
+## Current Work
+I am involved in evaluating large-scale road safety policies, using real-world data to inform evidence-based decision-making.
 
-# Ahmad Alkhatib 
+---
 
-## Research
-###The link between features of the **urban environment** and **health** 
+## Selected Topics
+### Urban Environment & Health
+Understanding the link between features of the **urban environment** and **population health outcomes**, including injury risk and wellbeing.
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://baxcompany.com/insights/healthy-cities-bridging-urban-planning-and-health/))
+![Healthy Cities](https://baxcompany.com/insights/healthy-cities-bridging-urban-planning-and-health/)
 
+---
 
-```
+## Links
+- 🔗 [GitHub](https://github.com/ahmadmkhatib)  
+- 📄 CV (add later)  
+- 📊 Google Scholar (add later)  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+## Contact
+- Email: your.email@imperial.ac.uk  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmadmkhatib/ahmadmkhatib.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
