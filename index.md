@@ -1,6 +1,7 @@
 # Ahmad Alkhatib
 **Research Associate in Public Health and Policy Evaluation**  
 Imperial College London  
+
 [Imperial Profile](https://profiles.imperial.ac.uk/a.alkhatib)
 ---
 
@@ -11,10 +12,9 @@ My work focuses on understanding how transport policies and city design influenc
 ---
 
 ## Research Interests
-- Road safety interventions  
-- 20 mph / low-speed traffic policies  
+
 - Urban environment and public health  
-- Causal inference (Difference-in-Differences, quasi-experimental methods)  
+- Causal inference 
 
 ---
 
@@ -33,12 +33,11 @@ Understanding the link between features of the **urban environment** and **popul
 
 ## Links
 - 🔗 [GitHub](https://github.com/ahmadmkhatib)  
-- 📄 CV (add later)  
-- 📊 Google Scholar (add later)  
+- 📊 Google Scholar (a[dd later](https://scholar.google.com/citations?user=_vHQDwQAAAAJ&hl=en))  
 
 ---
 
 ## Contact
-- Email: your.email@imperial.ac.uk  
+- Email: a.alkhatib@imperial.ac.uk  
 
 ---
