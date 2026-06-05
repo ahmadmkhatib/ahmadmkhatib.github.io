@@ -1,7 +1,7 @@
 # Ahmad Alkhatib
 **Research Associate in Public Health and Policy Evaluation**  
 Imperial College London  
-
+[Imperial Profile](https://profiles.imperial.ac.uk/a.alkhatib)
 ---
 
 ## About Me
